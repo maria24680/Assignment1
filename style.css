@@ -29,7 +29,7 @@ nav ul a{
     margin-bottom: 16px;
     
 }
-.btn-nav{
+.btn_nav{
     padding: 16px 12px;
     margin-right: 120px;
     background-color: #469165;
@@ -40,7 +40,7 @@ nav ul a{
     border-radius: 4px;
     cursor: pointer;
 }
-.btn-nav:hover{
+.btn_nav:hover{
     background-color:#15271c ;
 }
 .hero{
@@ -171,4 +171,123 @@ span{
 .card p{
     font-weight: 400px;
     line-height: 20px;
+}
+.brain{
+    padding: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brain_content{
+    width: 416px;
+    margin-top: 100px;
+}
+.brain_content p{
+    font-weight: 500px;
+    line-height: 20px;
+    font-style: medium;
+    color: #469165;
+
+}
+.brain_content h1{
+    font-size: 40px;
+    margin-bottom: 24px;
+    font-weight: bold;
+}
+.brain_content span p{
+    color: #627382 ;
+    margin-bottom: 40px;
+    
+}
+.brain_content ul{
+    line-height: 40px;
+    color: #000000;
+    list-style: none;
+}
+.think{
+    background-color: #F7F6F2;  
+    margin: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.think_content h1{
+font-size: 40px;
+font-weight: bold;
+color: #001931;
+padding-bottom: 16px;
+}
+.think_content p{
+    line-height: 24px;
+    color: #627382;
+    padding-bottom: 24px;
+}
+.think_content button{
+    padding: 16px 12px;
+    background-color: #469165;
+    color: #FFFFFF;
+    border: none;
+    font-size: 16px;
+    font-weight: 650px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    font-weight: 600px;
+}
+.think_content button:hover{
+    background-color:#15271c ;
+}
+.think_content{
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+}
+footer{
+    background-color: #001931;
+}
+.f_up{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 120px;
+    padding-top: 120px;
+    padding-bottom: 64px;
+}
+.s_icon p{
+    font-weight: 500px;
+    font-size: 20px;
+    color: white;
+}
+.i{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icons{
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-evenly;
+    margin-top: 16px;
+    margin-right: 30px;
+    gap: 15px;
+    
+}
+hr{
+    margin: 0 120px;
+    border: none;
+    height: 1px;
+    background-color: rgb(175, 168, 168);
+}
+.f_copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+    padding-bottom: 30px;
 }
