@@ -1,148 +1,118 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
+# 🌟 KnowledgeVault Assignment Project
+
+## 📌 Project Overview
+
+This project is a fully responsive and visually structured website built based on a provided Figma design. The goal was to replicate the layout and alignment accurately while maintaining clean code and proper design structure.
+
+The website represents a modern UI with multiple sections including Navbar, Banner, Notes, Second Brain, and Footer.
 
 ---
 
-📅 Deadline For 60 marks: 9th January, 2026 (11:59 pm ⏱️)
+## 🎯 Objective
 
-📅 Deadline For 50 marks: 10th January, 2026 (11:59 pm ⏱️)
-
-📅 Deadline For 30 marks: Any time after 10th January.
-
-## 🔗 Resources
-
-- **Figma Design:**
-  [https://www.figma.com/design/oMYH7Ccj6UU8MKZwuGiAXB/KnowledgeVault---L1]
-
-## ❓ Common Questions & Answers
-
-**Can I use different images?**
-
-- Yes, you may use any relevant images.
-
-**Can I change the alignment and design freely?**
-
-- No. You must follow the alignment and layout shown in the Figma design.
-
-**Can I change colors?**
-
-- Yes, as long as the colors are relevant and visually consistent.
-
-**Do I need to make the page pixel-perfect?**
-
-- No. You can use your own margin and padding while following the overall structure from Figma.
-
----
-
-## 📌 Assignment Requirements
-
-### ✅ Main Requirements (50 Marks)
-
-### 🔹 Navbar Section
-
-![Navbar Section](Sections/Navbar.png)
-
-- A logo aligned to the left
-- Menu items centered (as shown in Figma)
-- A button aligned to the right
-
----
-
-### 🔹 Banner Section
-
-![Banner Section](Sections/Banner.png)
-
-- A full-width background image
-- Center-aligned heading and text (as per Figma)
-- Two buttons below the text, aligned like the Figma design
-
----
-
-### 🔹 Notes Section
-
-![Notes Section](Sections/Notes%20Section.png)
-
-- Section heading and subtitle at the top
-- Four cards aligned in a single row
-- Each card must include:
-
-  - An icon
-  - Icon background color similar to Figma
-  - A title and subtitle
-
----
-
-### 🔹 Second Brain Section
-
-![Second Brain Section](Sections/Second%20Brain%20Section.png)
-
-- An image on the left
-- On the right side:
-
-  - Section message
-  - Title
-  - Description
-
-- A list of items below the description
-
----
-
-### 🔹 Footer Section
-
-![Footer Section](Sections/Footer.png)
-
-- A logo on the left
-- Social media links with icons on the right
-- A horizontal divider
-- Copyright message below the divider
-
----
-
-## 🚀 CHALLENGES (10 Marks)
-
-### 🔸 Early Access Section
-
-![Early Access Section](Sections/Early%20Access%20Section.png)
-
-- A centered title and subtitle
-- Below the subtitle:
-
-  - A simple message
-  - A “Get Early Access” button with an icon
-
-- Two ending messages below the button
-
----
-
-### 🔸 Interaction & Code Quality
-
-- Hover effects on all buttons
-- Minimum **5 GitHub commits**
-- **No Lorem Ipsum** text anywhere on the website
+- Follow the given Figma design layout
+- Maintain proper alignment and spacing
+- Build a clean and responsive UI using only HTML & CSS
+- Ensure a real-world website feel without using any frameworks or JavaScript
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- No JavaScript
-- No CSS frameworks or libraries
+- **HTML5**
+- **CSS3**
 
 ---
 
-## ✅ Submission Checklist
+## 🚀 Features
 
-- Figma layout followed correctly
-- Proper alignment and spacing
-- Clean and readable HTML & CSS
-- Live site deployed
-- Public GitHub repository
+- 📌 Clean and structured layout based on Figma
+- 📱 Responsive design for different screen sizes
+- 🎨 Custom styling without any frameworks
+- ✨ Smooth hover effects on buttons
+- 🧩 Well-organized sections for better user experience
+
+---
+
+## 🧱 Sections Included
+
+### 🔹 Navbar
+- Logo aligned to the left
+- Menu items centered
+- Action button aligned to the right
+
+### 🔹 Banner
+- Full-width background image
+- Centered heading and description
+- Two action buttons
+
+### 🔹 Notes Section
+- Section title and subtitle
+- Four feature cards in a row
+- Each card includes icon, title, and description
+
+### 🔹 Second Brain Section
+- Image on the left
+- Content on the right
+- Informative text with list items
+
+### 🔹 Early Access Section (Challenge)
+- Centered title and message
+- Call-to-action button with icon
+- Additional supporting text
+
+### 🔹 Footer
+- Logo on the left
+- Social media icons on the right
+- Divider and copyright text
 
 ---
 
-## 📂 Submission Format
+## 📂 Live Demo
 
-- **GitHub Repository Link**
-- **Live Website Link (GitHub Pages)**
+🔗 **Live Site:** [Add your live link here]  
+🔗 **GitHub Repo:** [Add your repo link here]
 
 ---
+
+## ✅ Completion Checklist
+
+- ✔ Followed Figma layout structure
+- ✔ Proper alignment and spacing maintained
+- ✔ Clean and readable HTML & CSS
+- ✔ Responsive design implemented
+- ✔ Hover effects added
+- ✔ No lorem ipsum used
+- ✔ Multiple GitHub commits
+
+---
+
+## 💡 What I Learned
+
+- Structuring a full webpage from a Figma design
+- Improving layout and alignment skills
+- Writing clean and maintainable HTML & CSS
+- Building responsive UI without frameworks
+
+---
+
+## 🙌 Acknowledgement
+
+Thanks to the instructor for providing a well-structured design and guideline. This project helped strengthen my frontend fundamentals.
+
+---
+
+## 🌸 Author
+
+**Mumtahina Maria**  
+CSE Student | Aspiring Web Developer  
+
+📧 mariamila24680@gmail.com  
+🔗 https://www.linkedin.com/in/mumtahina-maria-
+
+---
+
+## 💖 Thank You
+
+Thank you for visiting this project!  
+Feel free to explore and share your feedback 🚀
