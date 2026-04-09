@@ -70,8 +70,8 @@ The website represents a modern UI with multiple sections including Navbar, Bann
 
 ## 📂 Live Demo
 
-🔗 **Live Site:** [Add your live link here]  
-🔗 **GitHub Repo:** [Add your repo link here]
+🔗 **Live Site:** https://maria24680.github.io/Assignment1/  
+🔗 **GitHub Repo:** https://github.com/maria24680/Assignment1
 
 ---
 
